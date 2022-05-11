@@ -1,4 +1,4 @@
-This organisation is currently a WIP. To see what this is about join https://discord.gg/372vxnZ and visit `#galaxy-dev`.
+This organisation is currently a **WIP**. To see what this is about join https://discord.gg/372vxnZ and visit `#galaxy-dev`.
 
 ## Hi there 👋
 

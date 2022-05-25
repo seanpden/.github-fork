@@ -21,6 +21,10 @@ This initiative arised because of prolonged inactivity of @FriendsOfGalaxy accou
 - fixing issues and providing new features for popular plugins
 - create and improve useful tools and knowledge base for plugin developers
 
+## Github Project
+
+https://github.com/orgs/GOG-Nebula/projects/3
+
 ## Communication
 
 Check GOG Cafe discord channel on https://discord.gg/372vxnZ and visit `#galaxy-dev`.
